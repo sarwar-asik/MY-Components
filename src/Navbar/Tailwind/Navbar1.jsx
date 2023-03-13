@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 ///////////////////
 // 1 . Install Tailwind ,react router dom ,
-// 2. 
+// 2.   Template 
 // 3 .
 // 4 . 
 
