@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 // import logo from "../../assets/logo-removebg-preview.png";
 
 //  used only tailwind
+// / live https://classy-truffle-a59bab.netlify.app/
 
 const Navbar2jOB = () => {
   const [show, setShow] = useState(null || false);

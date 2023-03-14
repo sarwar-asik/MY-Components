@@ -13,4 +13,4 @@
 
 ### tech: Only Tailwind and React router dom
 
-### live :https://aesthetic-praline-a1931c.netlify.app/
+### live :https://classy-truffle-a59bab.netlify.app/
