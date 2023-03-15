@@ -12,7 +12,6 @@ import { Link } from "react-router-dom";
 
 
 
-
 const Navbar1 = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
